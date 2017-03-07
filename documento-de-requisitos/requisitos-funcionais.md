@@ -79,10 +79,10 @@ sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 11: Inserção de Produtos na(s) LC.
 
-Descrição: Os usuários cadastrados podem inserir novos produtos em sua(s) LC.
-Entrada: Nome do Produto, nome da(s) LC.
-Processo: O sistema insere todos os produtos selecionados na(s) LC alterando na base de dados.
-Saída: Mensagem de confirmação bem sucedido da inserção do(s) produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Descrição**: Os usuários cadastrados podem inserir novos produtos em sua(s) LC.
+**Entrada:** Nome do Produto, nome da(s) LC.
+**Processo:** O sistema insere todos os produtos selecionados na(s) LC alterando na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da inserção do(s) produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 12: Exclusão de Produtos da(s) LC. 
 
