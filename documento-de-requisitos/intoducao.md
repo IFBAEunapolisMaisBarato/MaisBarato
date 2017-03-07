@@ -1,6 +1,6 @@
 ###  Introdução
 
-1.1. Propósito do Documento
+i. Propósito do Documento
 
 Este documento contém a especificação de requisitos para o sistema (Cheaper) Mais Barato.
 
