@@ -56,25 +56,25 @@ através de campos determinados.
 
 + RF. 8: Criação da(s) LC.
 
-Descrição: O usuário poderá criar sua LC.
-Entrada: nome da LC.
-Processo: O sistema cadastrar uma LC vinculada aquele usuários.
-Saída:  Mensagem de confirmação bem sucedido da criação da LC caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Descrição: **O usuário poderá criar sua LC.
+**Entrada:** nome da LC.
+**Processo:** O sistema cadastrar uma LC vinculada aquele usuários.
+**Saída:**  Mensagem de confirmação bem sucedido da criação da LC caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF.9: Modificação da(s) LC.
 
-Descrição: O usuário poderá fazer alteração nos dados da LC.
-Entrada: Campo desejado e o novo dado.
-Processo: Atualização nos dados da LC na base de dados.
-Saída: Mensagem de confirmação bem sucedido da modificação caso tenha
+**Descrição: **O usuário poderá fazer alteração nos dados da LC.
+**Entrada:** Campo desejado e o novo dado.
+**Processo: **Atualização nos dados da LC na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da modificação caso tenha
 sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF.10: Exclusão da(s) LC.
 
-Descrição: O usuário poderá excluir qualquer LC.
-Entrada: LC(s) desejada.
-Processo: Exclusão da(s) LC na base de dados.
-Saída: Mensagem de confirmação bem sucedido da(s) exclusão caso tenha
+**Descrição:** O usuário poderá excluir qualquer LC.
+**Entrada:** LC(s) desejada.
+**Processo:** Exclusão da(s) LC na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da(s) exclusão caso tenha
 sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 11: Inserção de Produtos na(s) LC.
