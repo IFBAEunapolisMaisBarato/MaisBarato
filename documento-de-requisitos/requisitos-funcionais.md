@@ -10,17 +10,17 @@
 
 + RF. 2: Modificação de Cadastrado de Usuário
 
-Descrição: O usuário acessa seu perfil e encontra o(s) campo onde ele deseja modificar e o modifica.
-Entrada: Campo desejado e o novo dado.
-Processo: Atualização na base de dados.
-Saída: Mensagem de confirmação bem sucedido da modificação do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Descrição:** O usuário acessa seu perfil e encontra o(s) campo onde ele deseja modificar e o modifica.
+**Entrada:** Campo desejado e o novo dado.
+**Processo:** Atualização na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da modificação do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF 3: Exclusão do Cadastro de Usuário
 
-Descrição: O próprio usuário do aplicativo poderá excluir sua conta.
-Entrada: Nome de usuário.
-Processo: O sistema verifica se o usuário é cadastrado, se for o usuário é excluído.
-Saída: Mensagem de confirmação bem sucedido da exclusão do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Descrição:** O próprio usuário do aplicativo poderá excluir sua conta.
+**Entrada:** Nome de usuário.
+**Processo:** O sistema verifica se o usuário é cadastrado, se for o usuário é excluído.
+**Saída:** Mensagem de confirmação bem sucedido da exclusão do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 4: Inserção de Produtos
 
