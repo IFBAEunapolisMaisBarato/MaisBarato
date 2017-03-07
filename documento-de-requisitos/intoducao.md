@@ -11,6 +11,7 @@ O sistema tem como objetivo auxiliar seus usuários a economizar ao realizarem s
 1.3 Definições e Abreviações
 
 As definições utilizadas neste documento serão abordadas posteriormente no glossário. Abreviações:
+
 * RF: requisito funcional;
 * RNF: requisito não funcional.
 * PV: Ponto de Venda.
