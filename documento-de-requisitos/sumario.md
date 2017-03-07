@@ -1,4 +1,4 @@
-Sumário
+### Sumário
 
 1. Introdução
     1. Propósito do Documento
