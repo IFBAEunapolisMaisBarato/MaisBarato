@@ -86,30 +86,30 @@ Saída: Mensagem de confirmação bem sucedido da inserção do(s) produto caso 
 
 + RF. 12: Exclusão de Produtos da(s) LC. 
 
-Descrição: Os usuários cadastrados podem excluir os produtos de sua(s) respectiva LC.
-Entrada: Nome do Produto, nome da(s) LC.
-Processo: O sistema exclui  todos os produtos selecionados na(s) LC alterando na base de dados.
-Saída: Mensagem de confirmação bem sucedido da(s) exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Descrição:** Os usuários cadastrados podem excluir os produtos de sua(s) respectiva LC.
+**Entrada:** Nome do Produto, nome da(s) LC.
+**Processo: **O sistema exclui  todos os produtos selecionados na(s) LC alterando na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da(s) exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 13: Inserção de PV 
 
-Descrição: Os usuários cadastrados podem inserir novos PV com suas descrições.
-Entrada: Nome do PV, nome de usuário, dados do PV, data de inserção.
-Processo: O sistema insere todos os dados do PV na base de dados.
-Saída: Mensagem de confirmação bem sucedido da inserção do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Descrição:** Os usuários cadastrados podem inserir novos PV com suas descrições.
+**Entrada:** Nome do PV, nome de usuário, dados do PV, data de inserção.
+**Processo:** O sistema insere todos os dados do PV na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da inserção do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF.14: Modificação do PV
 
-Descrição: O usuário poderá fazer alteração nos dados do PV.
-Entrada: Campo desejado e o novo dado.
-Processo: Atualização nos dados do PV na base de dados.
-Saída: Mensagem de confirmação bem sucedido da modificação caso tenha
+**Descrição:** O usuário poderá fazer alteração nos dados do PV.
+**Entrada:** Campo desejado e o novo dado.
+**Processo:** Atualização nos dados do PV na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da modificação caso tenha
 sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 15: Exclusão do PV
 
-Descrição: O administrador poderá efetuar a exclusão do PV.
-Entrada: Nome do PV
-Processo: O sistema busca o PV na base de dados, caso ele encontre
+**Descrição:** O administrador poderá efetuar a exclusão do PV.
+**Entrada:** Nome do PV
+**Processo:** O sistema busca o PV na base de dados, caso ele encontre
 ele exclui.
-Saída: Mensagem de confirmação bem sucedido da exclusão do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da exclusão do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.
