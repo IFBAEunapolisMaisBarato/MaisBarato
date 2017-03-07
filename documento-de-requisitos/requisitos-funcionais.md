@@ -24,34 +24,34 @@
 
 + RF. 4: Inserção de Produtos
 
-Descrição: Os usuários cadastrados podem inserir novos produtos com suas descrições.
-Entrada: Dados do produto, nome de usuário, PV, data de inserção.
-Processo: O sistema insere todos esses dados na base de dados.
-Saída: Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Descrição:** Os usuários cadastrados podem inserir novos produtos com suas descrições.
+**Entrada:** Dados do produto, nome de usuário, PV, data de inserção.
+**Processo:** O sistema insere todos esses dados na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF.5: Modificação do Produto
 
-Descrição: O usuário poderá fazer alteração nos dados do produto.
-Entrada: Campo desejado e o novo dado.
-Processo: Atualização nos dados do produto na base de dados.
-Saída: Mensagem de confirmação bem sucedido da modificação caso tenha
+**Descrição:** O usuário poderá fazer alteração nos dados do produto.
+**Entrada:** Campo desejado e o novo dado.
+**Processo:** Atualização nos dados do produto na base de dados.
+**Saída:** Mensagem de confirmação bem sucedido da modificação caso tenha
 sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 6: Exclusão de Produto
 
-Descrição: O administrador poderá efetuar a exclusão de produtos.
-Entrada: Nome do Produto
-Processo: O sistema busca o produto na base de dados, caso ele encontre
+**Descrição**: O administrador poderá efetuar a exclusão de produtos.
+**Entrada:** Nome do Produto
+**Processo:** O sistema busca o produto na base de dados, caso ele encontre
 ele exclui.
-Saída: Mensagem de confirmação bem sucedido da exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
 
 + RF. 7: Consulta e Resgate de Documentos
 
-Descrição: O usuário pode buscar um determinado produto de sua escolha
+**Descrição:** O usuário pode buscar um determinado produto de sua escolha
 através de campos determinados.
-Entrada: Campo (nome, marca, categoria) ao qual o usuário deseja fazer a busca e o parâmetro de busca.
-Processo: O sistema busca os produtos referentes ao parâmetro de busca e retorna ao usuário.
-Saída: Os produtos referentes à busca para que possa fazer qualquer ação previamente prevista no sistema, senão mensagem de que não foi encontrado nenhum produto.
+**Entrada: **Campo (nome, marca, categoria) ao qual o usuário deseja fazer a busca e o parâmetro de busca.
+**Processo:** O sistema busca os produtos referentes ao parâmetro de busca e retorna ao usuário.
+**Saída:** Os produtos referentes à busca para que possa fazer qualquer ação previamente prevista no sistema, senão mensagem de que não foi encontrado nenhum produto.
 
 
 + RF. 8: Criação da(s) LC.
