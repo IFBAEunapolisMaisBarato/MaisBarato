@@ -1,8 +1,8 @@
-###  Introdução
+### Introdução
 
-i. Propósito do Documento
+1. Propósito do Documento
 
-Este documento contém a especificação de requisitos para o sistema (Cheaper) Mais Barato.
+Este documento contém a especificação de requisitos para o sistema \(Cheaper\) Mais Barato.
 
 1.2. Escopo do Produto
 
@@ -20,3 +20,4 @@ As definições utilizadas neste documento serão abordadas posteriormente no gl
 1.4 Visão Geral do documento
 
 Este documento apresenta uma descrição geral do sistema, e logo em seguida descreve suas funcionalidades especificando as entradas e saídas para todos os requisitos funcionais. Faz também uma descrição sucinta dos requisitos não funcionais contidos neste sistema.
+
