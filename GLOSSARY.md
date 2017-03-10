@@ -1,6 +1,6 @@
 #Glossário
 
-**Produto:**
+##Produto:
 **Grupo de Produto:**
 **Classe de produto:**
 **Ponto de Venda:**
