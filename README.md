@@ -1,6 +1,6 @@
 ![](/assets/Logo chaper.jpg)
+#Mais Barato
 
-# Mais Barato
 
 Neste repositório será armazenada toda a documentação do software aplicativo Mais Barato, desenvolvido pelo grupo de discentes para o projeto interdiciplinar do 4º semestre do curso de Analise e Desenvolvimento de Sistemas.
 
