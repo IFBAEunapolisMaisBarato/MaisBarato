@@ -2,9 +2,13 @@
 
 # Mais Barato
 
-Neste repositório será armazenda toda a documentação do softaware aplicativo Mais Barato, desenvolvindo pelo grupo de discentes para o projeto interdiciplinar do 4º semestre do curso de Analise e Desenvolvimento de Sistemas.  
-O projeto tem por objetivo permitir os discentes vivenciar atividade  prática, fazendo uso dos conhecimento adquiridos nos semestres anteiros e mais as diciplinas do semestre corrente as quais putuarão o trabalho desenvolvido, a saber Topicos de Avançados, Analise de Projeto de Sistemas, Introdução a Adminsitração e Rede de Computadores I.   
+Neste repositório será armazenda toda a documentação do softaware aplicativo Mais Barato, desenvolvindo pelo grupo de discentes para o projeto interdiciplinar do 4º semestre do curso de Analise e Desenvolvimento de Sistemas.
+
+O projeto tem por objetivo permitir os discentes vivenciar atividade  prática, fazendo uso dos conhecimento adquiridos nos semestres anteiros e mais as diciplinas do semestre corrente as quais putuarão o trabalho desenvolvido, a saber Topicos de Avançados, Analise de Projeto de Sistemas, Introdução a Adminsitração e Rede de Computadores I.
+
 A atividade sugerida pelo professor e aceito pelo discentes que compõe o grupo de trabalho, foi criação de um software aplicativo que auxiliasse os seus usuários na pesquisa de mercado e pesquisa de preço de produtos comercializados  em mercados e supermercados .
 
 No final do semestre o grupo deverá apresente o produto final produzido a uma banca composta pelos docentes das supracitadas disciplinas. O discente ainda terá se familiarizado com as atividade de desenvolvimetno de software, os dilemas, as ferramentas e tecnologias, mas sobretudo o desenvovlvimento pessoal e profissional e o trabalho de equipe.
+
+O 
 
