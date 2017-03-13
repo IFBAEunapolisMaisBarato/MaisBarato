@@ -14,17 +14,11 @@ O documentos produzidos e que acompnharão os codigos fonte da aplicação terã
 
 Neste projeto interdicilinar serão poduzidos os seguintes documentos de so:
 
-Termo de Abertura;
-
-Documeto de Requsitos
-
-Documentos de Caso de Uso
-
-Diagrama de Caso de Uso 
-
-Diagrama de Classe
-
-Deigarama de Instalação 
-
-Documento de Arquiterura
+    Termo de Abertura;
+    Documeto de Requsitos;
+    Documentos de Caso de Uso;
+    Diagrama de Caso de Uso 
+    Diagrama de Classe
+    Deigarama de Instalação 
+    Documento de Arquiterura
 
