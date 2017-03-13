@@ -2,7 +2,7 @@
 
 1. Propósito do Documento
 
-Este documento contém a especificação de requisitos para o sistema \(Cheaper\) Mais Barato.
+Este documento contém a especificação de requisitos para o sistema Mais Barato.
 
 1.2. Escopo do Produto
 
