@@ -10,5 +10,6 @@
     * [Requisitos Funcionais ](documento-de-requisitos/requisitos/requisitos-funcionais.md)
     * [Requisitos Não Funcionais](documento-de-requisitos/requisitos/requisitos-nao-funcionais.md)
     * [Outros Requisitos](documento-de-requisitos/requisitos/outros-requisitos.md)
+* Documento de Arquitetura
 * [Glossário](sumario.md)
 
