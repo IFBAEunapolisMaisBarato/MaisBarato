@@ -10,5 +10,5 @@ A atividade sugerida pelo professor e aceito pelo discentes que compõe o grupo 
 
 No final do semestre o grupo deverá apresente o produto final produzido a uma banca composta pelos docentes das supracitadas disciplinas. O discente ainda terá se familiarizado com as atividade de desenvolvimetno de software, os dilemas, as ferramentas e tecnologias, mas sobretudo o desenvovlvimento pessoal e profissional e o trabalho de equipe.
 
-O 
+O documentos produzidos e que acompnharão os codigos fonte da aplicação terão por objetivo explicar a finalidade do software,  suas funcionalidades, suas dependencias, as tecnologias utilizadas e sobretudo sua logica de funconamento e suas regras de negócio. Tuda essa documentação além de permitir a equipe desenvolvedora clareza da solução que se pretende desenvover para a situação abordada, como também para permitir maior celerida na identficação e correção de falhas e manutenção do sistema.
 
