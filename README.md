@@ -14,10 +14,10 @@ O documentos produzidos e que acompanharão o código fonte da aplicação, ter�
 
 Neste projeto interdiciplinar serão produzidos os seguintes documentos de software:
 
-Termo de Abertura;
-Documento de Requisitos;
-Documentos de Caso de Uso;
-Documento de Arquitetura
+    Termo de Abertura;
+    Documento de Requisitos;
+    Documentos de Caso de Uso;
+    Documento de Arquitetura
 
 
 
