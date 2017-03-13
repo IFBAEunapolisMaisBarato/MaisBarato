@@ -2,7 +2,7 @@
 
 # Mais Barato
 
-<p>    Neste repositório será armazenada toda a documentação do software aplicativo Mais Barato, desenvolvido pelo grupo de discentes para o projeto interdiciplinar do 4º semestre do curso de Analise e Desenvolvimento de Sistemas.</p>
+Neste repositório será armazenada toda a documentação do software aplicativo Mais Barato, desenvolvido pelo grupo de discentes para o projeto interdiciplinar do 4º semestre do curso de Analise e Desenvolvimento de Sistemas.
 
 O projeto tem por objetivo permitir os discentes vivenciar atividade  prática, fazendo uso dos conhecimento adquiridos nos semestres anteiros e mais as disciplinas do semestre corrente as quais pontuarão o trabalho desenvolvido, a saber Tópicos de Avançados, Analise de Projeto de Sistemas, Introdução a Administração e Rede de Computadores I.
 
@@ -14,12 +14,11 @@ O documentos produzidos e que acompanharão o código fonte da aplicação, ter�
 
 Neste projeto interdiciplinar serão produzidos os seguintes documentos de software:
 
-```
 Termo de Abertura;
 Documento de Requisitos;
 Documentos de Caso de Uso;
 Documento de Arquitetura
-```
+
 
 
 
