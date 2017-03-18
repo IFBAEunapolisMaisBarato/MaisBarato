@@ -1,7 +1,7 @@
 {
     "structure": {
-        "summary": "Principal/SUMMARY.md",
-        "glossary": "Principal/GLOSSARY.md"
+        "summary": "principal/sumario.md",
+        "glossary": "principal/sumnario.md"
     },
     "styles": {
         "website": "styles/website.css",
