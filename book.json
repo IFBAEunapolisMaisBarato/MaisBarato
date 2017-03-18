@@ -3,5 +3,7 @@
         "website": "styles/website.css",
         "pdf":"styles/pdf.css"
     }
-
+    "structure":{
+        "SUMMARY": "Principal/SUMmARY.md"
+    }
 }
