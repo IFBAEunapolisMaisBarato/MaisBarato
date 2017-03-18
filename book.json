@@ -4,6 +4,6 @@
         "pdf":"styles/pdf.css"
     }
     "structure":{
-        "SUMMARY": "Principal/SUMmARY.md"
+        "SUMMARY": "Principal/SUMmARY.md",
     }
 }
