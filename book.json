@@ -2,8 +2,9 @@
     "styles": {
         "website": "styles/website.css",
         "pdf":"styles/pdf.css"
-    }
+    },
     "structure":{
-        summary: "Principal/SUMMARY.md",
+        "summary": "Principal/SUMMARY.md",
+        "glossary": "Principal/GLOSSARY.md"
     }
 }
