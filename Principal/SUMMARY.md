@@ -1,6 +1,6 @@
 # Summary
 
-* [Introdução](README.md)
+* [Introdução](..\README.md)
 * [Termo de Abertura](termo-de-abertura.md)
 * [Documento de Requisitos ](documento-de-requisitos.md)
   * [Sumário](documento-de-requisitos/sumario.md)
