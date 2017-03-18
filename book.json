@@ -2,6 +2,7 @@
     "structure": {
         "glossary": "principal/sumnario.md"
     },
+    
     "styles": {
         "website": "styles/website.css",
         "pdf":"styles/pdf.css"
