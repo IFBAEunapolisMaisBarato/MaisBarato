@@ -4,7 +4,7 @@
         "pdf":"styles/pdf.css"
     },
     "structure":{
-        "summary":"principal/SUMMARY.md",
+        "summary":"principal/sumario.md",
     }
    
 }
