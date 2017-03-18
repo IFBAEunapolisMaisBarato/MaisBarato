@@ -3,8 +3,4 @@
         "website": "styles/website.css",
         "pdf":"styles/pdf.css"
     },
-    "structure":{
-        "summary":"sumario.md"
-    }
-   
 }
