@@ -2,7 +2,7 @@
     "structure": {
         "summary": "Principal/SUMMARY.md",
         "glossary": "Principal/GLOSSARY.md"
-    },
+    }
     "styles": {
         "website": "styles/website.css",
         "pdf":"styles/pdf.css"
