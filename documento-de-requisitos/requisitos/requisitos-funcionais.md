@@ -1,39 +1,50 @@
 ### 3. Requisitos Funcionais
 
-* RF. 1: Cadastro de Usuário.
+* RF. 1: Cadastrar  Usuário.
 
-**Descrição:** Qualquer pessoa poderá efetuar um cadastro no aplicativo mobile.  
+**Descrição:** Qualquer pessoa poderá efetuar  seu cadastro no aplicativo.  
 **Entrada:** Nome de usuário, E-mail e senha.  
 **Processo:** O cadastro será incluído em nossa base de dados.  
 **Saída:** Mensagem de confirmação de cadastro bem sucedido caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
-**Prioridade:**
+**Prioridade: **Essencial
 
-* RF. 2: Modificação de Cadastrado de Usuário
+* RF. 2: Alterar Cadastrado de Usuário
 
 **Descrição:** O usuário acessa seu perfil e encontra o\(s\) campo onde ele deseja modificar e o modifica.  
 **Entrada:** Campo desejado e o novo dado.  
 **Processo:** Atualização na base de dados.  
-**Saída:** Mensagem de confirmação bem sucedido da modificação do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da modificação do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
-* RF 3: Exclusão do Cadastro de Usuário
+* RF 3: Excluir  Cadastro de Usuário
 
 **Descrição:** O próprio usuário do aplicativo poderá excluir sua conta.  
 **Entrada:** Nome de usuário.  
 **Processo:** O sistema verifica se o usuário é cadastrado, se for o usuário é excluído.  
-**Saída:** Mensagem de confirmação bem sucedido da exclusão do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da exclusão do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
-* RF. 4: Inserção de Produtos
+* RF. 4: Cadastrar Produto
 
 **Descrição:** Os usuários cadastrados podem inserir novos produtos com suas descrições.  
-**Entrada:** Dados do produto, nome de usuário, PV, data de inserção.  
+**Entrada:** Dados do produto, indetificação do usuário, PV e data de inserção.  
 **Processo:** O sistema insere todos esses dados na base de dados.  
-**Saída:** Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
-* RF.5: Modificação do Produto
+* RF. 5: Moderar Cadastro de Produto
 
-**Descrição:** O usuário poderá fazer alteração nos dados do produto.  
-**Entrada:** Campo desejado e o novo dado.  
-**Processo:** Atualização nos dados do produto na base de dados.  
+**Descrição:** Toda os podutos cadastrado pelos usuário comum passará por uma revisão por um moderador  
+**Entrada: **Os dados do produto cadastrados pelos usuários comum  
+**Processo: **Caso o cadastro tenha ocorrido corretamente  o produto e inserido na tabela de produto, outro caso será descartado.  
+**Saída:** Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
+
+* RF.5: Alterar do Produto
+
+**Descrição: Somente um usuário administrador poderá realizar a auteração dos dados cadastrais de um poduto**  
+**Entrada:** Campo desejado e o novos dados a ser inserido.  
+**Processo:** Atualização da base de dados de do produto.  
 **Saída:** Mensagem de confirmação bem sucedido da modificação caso tenha  
 sido efetuado com sucesso, senão, mensagem de erro.
 
@@ -127,3 +138,4 @@ ele exclui.
 **Entrada:** LC.  
 **Processo:** O sistema busca o melhor PV baseado na LC vinculada ao usuário.  
 **Saída:** Exibição do PV que o sistema julgou ser o melhor para que o usuário faça sua compra caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+
