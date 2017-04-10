@@ -8,7 +8,7 @@
 **Saída:** Mensagem de confirmação de cadastro bem sucedido caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencial
 
-* RF. 2: Alterar Cadastrado de Usuário
+* RF. 2: Alterar Usuário
 
 **Descrição:** O usuário acessa seu perfil e encontra o\(s\) campo onde ele deseja modificar e o modifica.  
 **Entrada:** Campo desejado e o novo dado.  
@@ -16,7 +16,7 @@
 **Saída:** Mensagem de confirmação bem sucedido da modificação do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencial
 
-* RF 3: Excluir  Cadastro de Usuário
+* RF 3: Excluir  Usuário
 
 **Descrição:** O próprio usuário do aplicativo poderá excluir sua conta.  
 **Entrada:** Nome de usuário.  
@@ -24,45 +24,50 @@
 **Saída:** Mensagem de confirmação bem sucedido da exclusão do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencial
 
+* RF. 7: Consultar Usuário
+
+**Descrição:** O usuário administrador pode buscar um determinado usuário cadastrado  
+**Entrada: N**ome ou código do usuasrio  
+**Processo:** O sistema busca as informações do cadastro do usuário e retorna ao administrador.  
+**Saída:** O sistema devolve as infomações do usuário ou uma mensagem de usuário não encontrado.  
+**Prioridade: **Importante
+
 * RF. 4: Cadastrar Produto
 
 **Descrição:** Os usuários cadastrados podem inserir novos produtos com suas descrições.  
 **Entrada:** Dados do produto, indetificação do usuário, PV e data de inserção.  
 **Processo:** O sistema insere todos esses dados na base de dados.  
 **Saída:** Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
-**Prioridade: **Essencial
+**Prioridade: **Essencia
 
-* RF. 5: Moderar Cadastro de Produto
 
-**Descrição:** Toda os podutos cadastrado pelos usuário comum passará por uma revisão por um moderador  
-**Entrada: **Os dados do produto cadastrados pelos usuários comum  
-**Processo: **Caso o cadastro tenha ocorrido corretamente  o produto e inserido na tabela de produto, outro caso será descartado.  
-**Saída:** Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
-**Prioridade: **Essencial
 
-* RF.5: Alterar do Produto
+* RF.5: Alterar Produto
 
-**Descrição: Somente um usuário administrador poderá realizar a auteração dos dados cadastrais de um poduto**  
+**Descrição: **Somente um usuário administrador poderá realizar a auteração dos dados cadastrais de um poduto  
 **Entrada:** Campo desejado e o novos dados a ser inserido.  
 **Processo:** Atualização da base de dados de do produto.  
 **Saída:** Mensagem de confirmação bem sucedido da modificação caso tenha  
-sido efetuado com sucesso, senão, mensagem de erro.
+sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
-* RF. 6: Exclusão de Produto
+* RF. 6: Excluir Produto
 
-**Descrição**: O administrador poderá efetuar a exclusão de produtos.  
-**Entrada:** Nome do Produto  
+**Descrição**: Somente um usuário  administrador poderá efetuar a exclusão de produtos.  
+**Entrada:** Nome do Produto ou código do produto  
 **Processo:** O sistema busca o produto na base de dados, caso ele encontre  
 ele exclui.  
-**Saída:** Mensagem de confirmação bem sucedido da exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
-* RF. 7: Consulta e Resgate de Documentos
+* RF. 7: Consultar Produto
 
 **Descrição:** O usuário pode buscar um determinado produto de sua escolha  
 através de campos determinados.  
 **Entrada: **Campo \(nome, marca, categoria\) ao qual o usuário deseja fazer a busca e o parâmetro de busca.  
 **Processo:** O sistema busca os produtos referentes ao parâmetro de busca e retorna ao usuário.  
-**Saída:** Os produtos referentes à busca para que possa fazer qualquer ação previamente prevista no sistema, senão mensagem de que não foi encontrado nenhum produto.
+**Saída:** Os produtos referentes à busca para que possa fazer qualquer ação previamente prevista no sistema, senão mensagem de que não foi encontrado nenhum produto.  
+**Prioridade: **Essencial
 
 * RF. 8: Criação da\(s\) LC.
 
@@ -77,7 +82,8 @@ através de campos determinados.
 **Entrada:** Campo desejado e o novo dado.  
 **Processo: **Atualização nos dados da LC na base de dados.  
 **Saída:** Mensagem de confirmação bem sucedido da modificação caso tenha  
-sido efetuado com sucesso, senão, mensagem de erro.
+sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF.10: Exclusão da\(s\) LC.
 
@@ -85,28 +91,32 @@ sido efetuado com sucesso, senão, mensagem de erro.
 **Entrada:** LC\(s\) desejada.  
 **Processo:** Exclusão da\(s\) LC na base de dados.  
 **Saída:** Mensagem de confirmação bem sucedido da\(s\) exclusão caso tenha  
-sido efetuado com sucesso, senão, mensagem de erro.
+sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF. 11: Inserção de Produtos na\(s\) LC.
 
 **Descrição**: Os usuários cadastrados podem inserir novos produtos em sua\(s\) LC.  
 **Entrada:** Nome do Produto, nome da\(s\) LC.  
 **Processo:** O sistema insere todos os produtos selecionados na\(s\) LC alterando na base de dados.  
-**Saída:** Mensagem de confirmação bem sucedido da inserção do\(s\) produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da inserção do\(s\) produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF. 12: Exclusão de Produtos da\(s\) LC. 
 
 **Descrição:** Os usuários cadastrados podem excluir os produtos de sua\(s\) respectiva LC.  
 **Entrada:** Nome do Produto, nome da\(s\) LC.  
 **Processo: **O sistema exclui  todos os produtos selecionados na\(s\) LC alterando na base de dados.  
-**Saída:** Mensagem de confirmação bem sucedido da\(s\) exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da\(s\) exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF. 13: Inserção de PV 
 
 **Descrição:** Os usuários cadastrados podem inserir novos PV com suas descrições.  
 **Entrada:** Nome do PV, nome de usuário, dados do PV, data de inserção.  
 **Processo:** O sistema insere todos os dados do PV na base de dados.  
-**Saída:** Mensagem de confirmação bem sucedido da inserção do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da inserção do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF.14: Modificação do PV
 
@@ -114,7 +124,8 @@ sido efetuado com sucesso, senão, mensagem de erro.
 **Entrada:** Campo desejado e o novo dado.  
 **Processo:** Atualização nos dados do PV na base de dados.  
 **Saída:** Mensagem de confirmação bem sucedido da modificação caso tenha  
-sido efetuado com sucesso, senão, mensagem de erro.
+sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF. 15: Exclusão do PV
 
@@ -122,7 +133,8 @@ sido efetuado com sucesso, senão, mensagem de erro.
 **Entrada:** Nome do PV  
 **Processo:** O sistema busca o PV na base de dados, caso ele encontre  
 ele exclui.  
-**Saída:** Mensagem de confirmação bem sucedido da exclusão do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Mensagem de confirmação bem sucedido da exclusão do PV caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF. 16: Comparar preço do\(s\) Produtos
 
@@ -130,12 +142,14 @@ ele exclui.
 **Entrada:** Nome do Produto  
 **Processo:** O sistema busca os preços do produto em seus respectivos PV.  
 ele exclui.  
-**Saída:** Exibição do produto com seus vários preços do menor para o maior caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Exibição do produto com seus vários preços do menor para o maior caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
 * RF. 17: Buscar melhor PV para compra
 
 **Descrição:** O usuário poderá buscar o melhor PV para efetuar sua compra baseado em sua LC.  
 **Entrada:** LC.  
 **Processo:** O sistema busca o melhor PV baseado na LC vinculada ao usuário.  
-**Saída:** Exibição do PV que o sistema julgou ser o melhor para que o usuário faça sua compra caso tenha sido efetuado com sucesso, senão, mensagem de erro.
+**Saída:** Exibição do PV que o sistema julgou ser o melhor para que o usuário faça sua compra caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
+**Prioridade: **Essencial
 
