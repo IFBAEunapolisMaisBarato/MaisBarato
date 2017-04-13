@@ -169,11 +169,9 @@ ele exclui.
 
 RF. 21: Leitor de Código de Barras
 
-**Descrição: **O usuário poderá fazer a consulta de um produto utilizando a câmera de seu dispositivo móvel  para fazer leitura do código de barras do produto informado na embalagem. Durante o preenchimento do cadastro de produto o usuário também poderá fazer a coleta do codigo de barras através da leitora eletronica. Esta funcionalidade só deve estar disponível na versão para dispositivo movel.  
-**Entrada:** Fotográfia do código de barras do produto existente na embalagem  
+**Descrição: **O usuário poderá fazer a consulta de um produto utilizando a câmera de seu dispositivo móvel  para fazer leitura do código de barras informado na embalagem. Durante o preenchimento do cadastro de produto o usuário também poderá fazer a coleta do codigo de barras através da leitora eletrônica. Esta funcionalidade só deve estar disponível na versão para dispositivo movel.  
+**Entrada:** Fotográfia do código de barras do produto existente na embalagem.  
 **Processo:** O sistema faz a leitura do codigo utilizando um interpretador de imagem e retorna o número do código  que poderá ser usado no cadastro de novos produtos ou numa requesisção de busca do mesm.  
 **Saída:** Retorna os dados de um produto cadastrado ou  a mensagem de produto não encontrado.  
 **Prioridade:** Desejavel
-
-
 
