@@ -15,15 +15,20 @@
 **Descrição:** Todos os usuários precisarão estar devidamente altenticado para consumir os serviços disponíveis não sistema.
 **Prioridade: **Essencial
 
-* RNF. 04: Registro de Log
+* RNF. 04: Registro de log
 
 **Descrição:** O sistema deverá guarda de forma esquematizadas e segura todos os registro de atividades realizadas pelos usuário com seus devidos id e horário para que seja possivel auditar o software
 **Prioridade: **Essencial
 
+* RNF. 05: Design responsivo nas interfaces gráficas
 
-* RNF. 1: 
-
-**Descrição:** 
+**Descrição:** Todas as interfaces gráficas da aplicação web deverão ter a capacidade de se adaptar aos diversos tamanhos de telas dos mais dispositivos disponíveis que comporte os navegadores modernos, fazendo a reodenção dos seus elementos visuais como barras e menus conforme o caso.
 **Prioridade: **Essencial
+
+
+* RNF. 06: Interface simples e agradável
+
+**Descrição:** A interface de usuário deverá ser simples de facil utilização e bem intuitiva, permitindo que o usuário compreenda facilmente como utilizar os elementos gráficos.
+**Prioridade: **Importante
 
 
