@@ -1,6 +1,6 @@
 ### 3. Requisitos Funcionais
 
-* RF. 1: Cadastrar  Usuário.
+* RF. 01: Cadastrar  Usuário.
 
 **Descrição:** Qualquer pessoa poderá efetuar  seu cadastro no aplicativo.  
 **Entrada:** Nome de usuário, E-mail e senha.  
@@ -8,7 +8,7 @@
 **Saída:** Mensagem de confirmação de cadastro bem sucedido caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencial
 
-* RF. 2: Alterar Usuário
+* RF. 02: Alterar Usuário
 
 **Descrição:** O usuário acessa seu perfil e encontra o\(s\) campo onde ele deseja modificar e o modifica.  
 **Entrada:** Campo desejado e o novo dado.  
@@ -16,7 +16,7 @@
 **Saída:** Mensagem de confirmação bem sucedido da modificação do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencial
 
-* RF 3: Excluir  Usuário
+* RF 03: Excluir  Usuário
 
 **Descrição:** O próprio usuário do aplicativo poderá excluir sua conta.  
 **Entrada:** Nome de usuário.  
@@ -24,7 +24,7 @@
 **Saída:** Mensagem de confirmação bem sucedido da exclusão do cadastro caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencial
 
-* RF. 4: Consultar Usuário
+* RF. 04: Consultar Usuário
 
 **Descrição:** O usuário administrador pode buscar um determinado usuário cadastrado  
 **Entrada: N**ome ou código do usuasrio  
@@ -32,7 +32,7 @@
 **Saída:** O sistema devolve as infomações do usuário ou uma mensagem de usuário não encontrado.  
 **Prioridade: **Importante
 
-* RF. 5: Cadastrar Produto
+* RF. 05: Cadastrar Produto
 
 **Descrição:** Os usuários cadastrados podem inserir novos produtos com suas descrições.  
 **Entrada:** Dados do produto, indetificação do usuário, PV e data de inserção.  
@@ -40,7 +40,7 @@
 **Saída:** Mensagem de confirmação bem sucedido da inserção do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencia
 
-* RF.6: Alterar Produto
+* RF. 06: Alterar Produto
 
 **Descrição: **Somente um usuário administrador poderá realizar a auteração dos dados cadastrais de um poduto  
 **Entrada:** Campo desejado e o novos dados a ser inserido.  
@@ -49,7 +49,7 @@
 sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Essencial
 
-* RF. 7: Excluir Produto
+* RF. 07: Excluir Produto
 
 **Descrição**: Somente um usuário  administrador poderá efetuar a exclusão de produtos.  
 **Entrada:** Nome do Produto ou código do produto  
@@ -58,7 +58,7 @@ ele exclui.
 **Saída:** Mensagem de confirmação bem sucedido da exclusão do produto caso tenha sido efetuado com sucesso, senão, mensagem de erro.  
 **Prioridade: **Importante
 
-* RF. 8: Consultar Produto
+* RF. 08: Consultar Produto
 
 **Descrição:** O usuário pode buscar um determinado produto de sua escolha  
 através de campos determinados.  
@@ -67,7 +67,7 @@ através de campos determinados.
 **Saída:** Os produtos referentes à busca para que possa fazer qualquer ação previamente prevista no sistema, senão mensagem de que não foi encontrado nenhum produto.  
 **Prioridade: **Essencial
 
-* RF. 9: Cadastrar  LC.
+* RF. 09: Cadastrar  LC.
 
 **Descrição: **O usuário poderá criar sua LC.  
 **Entrada:** nome da LC.  
