@@ -15,7 +15,10 @@
 **Descrição:** Todos os usuários precisarão estar devidamente altenticado para consumir os serviços disponíveis não sistema.
 **Prioridade: **Essencial
 
+* RNF. 04: Registro de Log
 
+**Descrição:** O sistema deverá guarda de forma esquematizadas e segura todos os registro de atividades realizadas pelos usuário com seus devidos id e horário para que seja possivel auditar o software
+**Prioridade: **Essencial
 
 
 * RNF. 1: 
