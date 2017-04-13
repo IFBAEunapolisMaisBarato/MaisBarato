@@ -31,4 +31,33 @@
 **Descrição:** A interface de usuário deverá ser simples de facil utilização e bem intuitiva, permitindo que o usuário compreenda facilmente como utilizar os elementos gráficos.
 **Prioridade: **Importante
 
+* RNF. 06: Compatibilidade com os principais navegadores web
+
+**Descrição:** A versão web da aplicação deverá funcionar corretamente nos principais navegadores disponíveis seja nos sistemas operacionais Linux, Windows e MAC. 
+**Prioridade: ** Essencial 
+
+* RNF. 06: Compatibilida com a Aplicação Mobile
+
+**Descrição:** A versão da aplicação para dispositivos moveis deverá ser compatível com a mais recente versão do sistema operacional Android, assim atingindo mais de 95% dos dispositivos desta arquitetura.
+**Prioridade:** Desejável
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* RNF. 06:
+
+**Descrição:**
+**Prioridade: **
+
+
 
