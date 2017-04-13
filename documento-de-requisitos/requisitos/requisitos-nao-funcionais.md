@@ -8,7 +8,7 @@
 * RNF. 02: Disponibilidade do Sistema
 
 **Descrição:**O software deve estar disponível para acesso via navegador  web pelo menos 24 horas diárias. No caso da aplicativo para dispositivos moveis será possível o uso de algumas funcionalidade no modo _offline_, neste caso, o sistema armazenará localmente no dispositivo as informações recebidas e  sincronizará as informações com o servidor assim que detectar um conexão com a internet.  
-**Prioridade: **Desejável
+**Prioridade: **Desejavel
 
 * RNF. 03: Autenticação de usuário utilização do serviço
 
@@ -32,15 +32,11 @@
 
 * RNF. 07: Compatibilidade com os principais navegadores web
 
-**Descrição:** A versão web da aplicação deverá funcionar corretamente nos principais navegadores disponíveis seja nos sistemas operacionais Linux, Windows e MAC.   
+**Descrição:** A versão web da aplicação deverá funcionar corretamente nos principais navegadores disponíveis seja nos sistemas operacionais Linux, Windows e MAC.  
 **Prioridade: ** Essencial
 
 * RNF. 08: Compatibilida com a Aplicação Mobile
 
 **Descrição:** A versão da aplicação para dispositivos moveis deverá ser compatível com a mais recente versão do sistema operacional Android, assim atingindo mais de 95% dos dispositivos desta arquitetura.  
-**Prioridade:** Desejável
-
-
-
-
+**Prioridade:** Desejavel
 
