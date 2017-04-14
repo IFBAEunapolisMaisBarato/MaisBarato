@@ -1,6 +1,6 @@
 ![](/assets/Logo chaper.jpg)
-#Mais Barato
 
+# Mais Barato
 
 Neste repositório será armazenada toda a documentação do software aplicativo Mais Barato, desenvolvido pelo grupo de discentes para o projeto interdisciplinar do 4º semestre do curso de Analise e Desenvolvimento de Sistemas.
 
@@ -14,11 +14,12 @@ O documentos produzidos e que acompanharão o código fonte da aplicação, ter�
 
 Neste projeto interdisciplinar serão produzidos os seguintes documentos de software:
 
-    Termo de Abertura;
-    Documento de Requisitos;
-    Documentos de Caso de Uso;
-    Documento de Arquitetura
-
+```
+Termo de Abertura;
+Documento de Requisitos;
+Documentos de Caso de Uso;
+Documento de Arquitetura
+```
 
 
 

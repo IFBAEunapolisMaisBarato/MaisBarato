@@ -167,7 +167,7 @@ ele exclui.
 **Saída:** Confirmar a atuliazação do preço do produto ou  mensagem de erro.  
 **Prioridade:** Essencial
 
-RF. 21: Leitor de Código de Barras
+* RF. 21: Leitor de Código de Barras
 
 **Descrição: **O usuário poderá fazer a consulta de um produto utilizando a câmera de seu dispositivo móvel  para fazer leitura do código de barras informado na embalagem. Durante o preenchimento do cadastro de produto o usuário também poderá fazer a coleta do codigo de barras através da leitora eletrônica. Esta funcionalidade só deve estar disponível na versão para dispositivo movel.  
 **Entrada:** Fotográfia do código de barras do produto existente na embalagem.  
